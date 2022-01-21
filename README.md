@@ -1,6 +1,6 @@
 # Researching-Machine-Learning-Algorithms
 
-This is my groups repository for Researching Machine Learning Algorithms Exercise as part of the Dev10 Data Programming curriculum.
+This is my groups repository for Researching Machine Learning Algorithms and Implementing a New Model Exercises as part of the Dev10 Data Programming curriculum.
 ## Navigation
 - Researching Machine Learning Algorithms.pptx is a presentation that introduces the basics of the supervised, classification machine learning algorithm: Naive Bayes. 
 
